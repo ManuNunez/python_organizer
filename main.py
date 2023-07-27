@@ -21,9 +21,9 @@ def organizar_archivos(carpeta):
                 'Imágenes': ['.jpg', '.jpeg', '.png', '.gif'],
                 'Documentos': ['.doc', '.docx', '.pdf', '.txt'],
                 'Música': ['.mp3', '.wav', '.ogg'],
-                'Videos': ['.mp4'],  # Agregando la extensión .mp4
-                'Código': ['.py', '.c', '.cpp', '.html', '.css', '.js'],  # Agregando la categoría Código
-                # Agrega más categorías según tus necesidades
+                'Videos': ['.mp4'], 
+                'Código': ['.py', '.c', '.cpp', '.html', '.css', '.js'],
+
             }
 
             # Encontrar la categoría del archivo
